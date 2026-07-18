@@ -69,8 +69,8 @@ const SatanNode = {
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=SatanNode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatanNode&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true" />
+<img height="175" src="https://github-readme-stats-one-blush-71.vercel.app/api?username=SatanNode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+<img height="175" src="https://github-readme-stats-one-blush-71.vercel.app/api/top-langs/?username=SatanNode&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true" />
 
 <br/>
 
