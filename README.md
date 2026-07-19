@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C47FF,B06BFF&height=220&section=header&text=SatanNode&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Node.js%20Developer%20%E2%80%A2%20Discord%20Bot%20Architect%20%E2%80%A2%20Self-Taught&descAlignY=62&descSize=17&descColor=d4b8ff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C47FF,B06BFF&height=220&section=header&text=SatanNode&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Pure%20Genius%20%E2%80%A2%20Questionable%20Decisions%20%E2%80%A2%20Self-Taught&descAlignY=62&descSize=17&descColor=d4b8ff" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=9D6AF7&center=true&vCenter=true&width=600&height=48&lines=Building+things+from+scratch.;Discord+bot+architect.;Backend+%26+full-stack+developer.;Mostly+private%2C+always+shipping." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=9D6AF7&center=true&vCenter=true&width=600&height=48&lines=Building+things+nobody+asked+for.;Mad+scientist+of+the+backend.;Full-stack+%26+fully+unhinged.;Mostly+private%2C+always+shipping." alt="Typing SVG" />
 
 <br/><br/>
 
@@ -18,13 +18,15 @@
 
 ## 🧠 About Me
 
+<img align="right" width="120" src="https://percocet.cc/images/logo.png" />
+
 ```js
 const SatanNode = {
   location : "United States 🇺🇸",
   stack    : ["Node.js", "JavaScript", "C#", "MongoDB", "SQL", "React"],
-  focus    : ["Discord Bots", "Backend Systems", "Live Dashboards"],
+  focus    : ["Discord Bots", "Backend Systems", "Applications", "Websites"],
   learning : "Always something new",
-  status   : "🔒 Building in private — shipping when it's ready",
+  status   : "🔒 Building in private",
 }
 ```
 
@@ -69,8 +71,8 @@ const SatanNode = {
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats-one-blush-71.vercel.app/api?username=SatanNode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-<img height="175" src="https://github-readme-stats-one-blush-71.vercel.app/api/top-langs/?username=SatanNode&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true" />
+<img height="175" src="https://github-readme-stats-one-blush-71.vercel.app/api?username=SatanNode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&v=2" />
+<img height="175" src="https://github-readme-stats-one-blush-71.vercel.app/api/top-langs/?username=SatanNode&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true&v=2" />
 
 <br/>
 
@@ -92,6 +94,7 @@ const SatanNode = {
 | 🤖 **Percocet Bot** | Private Discord bot built from the ground up |
 | 🌟 **Starlite** | Customer management platform for handling clients & sales |
 | 🛠️ **Private Tools** | Collection of purchasable tools built for real use cases |
+| 🎮 **Hacking Tools** | Collection of tools hacking multiplayer games |
 | ➕ **& more** | Multiple other projects running simultaneously in the background |
 
 </div>
