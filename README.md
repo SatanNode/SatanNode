@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=9D6AF7&center=true&vCenter=true&width=600&height=48&lines=Building+things+nobody+asked+for.;Mad+scientist+of+the+backend.;Full-stack+%26+fully+unhinged.;Mostly+private%2C+always+shipping." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=9D6AF7&center=true&vCenter=true&width=600&height=48&lines=Mad+scientist+experimental+features;Deep+in+your+code+reverse+engineering;Breaking+rules;Giving+skids+new+tools" alt="Typing SVG" />
 
 <br/><br/>
 
